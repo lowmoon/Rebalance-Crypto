@@ -2,6 +2,11 @@
 
 Places limit buys and stop-loss sells of cryptoassets in order to rebalance a portfolio to a baseline percentage allocation. 
 
+Download python https://www.python.org/downloads/
+Download Visual C++ build tools: http://landinghub.visualstudio.com/visual-cpp-build-tools
+Run pip install python-binance
+
+API Used: https://github.com/sammchardy/python-binance
 
 1. Adjust "api_key" and "api_secret" to your Binance API key/secret
 
